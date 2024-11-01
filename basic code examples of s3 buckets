@@ -1,0 +1,134 @@
+Amazon S3
+Basics
+Hello Amazon S3
+Learn the basics
+Learn the basics of S3 Express One Zone
+Actions
+AbortMultipartUpload
+CompleteMultipartUpload
+CopyObject
+CreateBucket
+CreateMultiRegionAccessPoint
+CreateMultipartUpload
+DeleteBucket
+DeleteBucketAnalyticsConfiguration
+DeleteBucketCors
+DeleteBucketEncryption
+DeleteBucketInventoryConfiguration
+DeleteBucketLifecycle
+DeleteBucketMetricsConfiguration
+DeleteBucketPolicy
+DeleteBucketReplication
+DeleteBucketTagging
+DeleteBucketWebsite
+DeleteObject
+DeleteObjectTagging
+DeleteObjects
+DeletePublicAccessBlock
+GetBucketAccelerateConfiguration
+GetBucketAcl
+GetBucketAnalyticsConfiguration
+GetBucketCors
+GetBucketEncryption
+GetBucketInventoryConfiguration
+GetBucketLifecycleConfiguration
+GetBucketLocation
+GetBucketLogging
+GetBucketMetricsConfiguration
+GetBucketNotification
+GetBucketPolicy
+GetBucketPolicyStatus
+GetBucketReplication
+GetBucketRequestPayment
+GetBucketTagging
+GetBucketVersioning
+GetBucketWebsite
+GetObject
+GetObjectAcl
+GetObjectAttributes
+GetObjectLegalHold
+GetObjectLockConfiguration
+GetObjectRetention
+GetObjectTagging
+GetPublicAccessBlock
+HeadBucket
+HeadObject
+ListBucketAnalyticsConfigurations
+ListBucketInventoryConfigurations
+ListBuckets
+ListMultipartUploads
+ListObjectVersions
+ListObjects
+ListObjectsV2
+PutBucketAccelerateConfiguration
+PutBucketAcl
+PutBucketCors
+PutBucketEncryption
+PutBucketLifecycleConfiguration
+PutBucketLogging
+PutBucketNotification
+PutBucketNotificationConfiguration
+PutBucketPolicy
+PutBucketReplication
+PutBucketRequestPayment
+PutBucketTagging
+PutBucketVersioning
+PutBucketWebsite
+PutObject
+PutObjectAcl
+PutObjectLegalHold
+PutObjectLockConfiguration
+PutObjectRetention
+RestoreObject
+SelectObjectContent
+UploadPart
+Scenarios
+Convert text to speech and back to text
+Create a presigned URL
+Create a serverless application to manage photos
+Create a web page that lists Amazon S3 objects
+Create an Amazon Textract explorer application
+Delete all objects in a bucket
+Delete incomplete multipart uploads
+Detect PPE in images
+Detect entities in text extracted from an image
+Detect faces in an image
+Detect objects in images
+Detect people and objects in a video
+Download objects to a local directory
+Get an object from a Multi-Region Access Point
+Get an object from a bucket if it has been modified
+Get started with encryption
+Get started with tags
+Lock Amazon S3 objects
+Make conditional requests
+Manage access control lists (ACLs)
+Manage versioned objects in batches with a Lambda function
+Parse URIs
+Perform a multipart copy
+Process S3 event notifications
+Save EXIF and other image information
+Send event notifications to EventBridge
+Track uploads and downloads
+Transform data with S3 Object Lambda
+Unit and integration test with an SDK
+Upload directory to a bucket
+Upload or download large files
+Upload stream of unknown size
+Use checksums
+Work with Amazon S3 object integrity
+Work with versioned objects
+Serverless examples
+Invoke a Lambda function from an Amazon S3 trigger
+Amazon S3 Control
+Basics
+Hello 'Amazon S3 Control'
+Learn the basics
+Actions
+CreateJob
+DeleteJobTagging
+DescribeJob
+GetJobTagging
+PutJobTagging
+UpdateJobPriority
+UpdateJobStatus
